@@ -15,7 +15,7 @@ function Card(props) {
     momentYear = "1 years ago";
 
   } else {
-    momentYear = 'newYear-oldYear' -" years ago";
+    momentYear = " 2 years ago";
   }
 
   return (
@@ -23,6 +23,7 @@ function Card(props) {
       <div>{props.title}</div>
       <div>{props.price}</div>
       <div>{props.color}</div>
+      <div>{props.date.toISOString().substr(0, 10)}</div>
       <div><strong>{momentYear} </strong></div>
     </div>
   );
