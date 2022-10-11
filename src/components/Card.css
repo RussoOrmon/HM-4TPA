@@ -1,0 +1,11 @@
+
+
+.container{
+width: 300px;
+height: 310px;
+background-color: rgb(6, 159, 34);
+font-size: 30px;
+margin: 20px auto;
+border: 2px solid;
+}
+
