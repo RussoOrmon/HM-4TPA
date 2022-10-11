@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HM-4TPA/static/css/main.9aa5f8d8.css",
+    "main.js": "/HM-4TPA/static/js/main.f262d3ad.js",
+    "index.html": "/HM-4TPA/index.html",
+    "main.9aa5f8d8.css.map": "/HM-4TPA/static/css/main.9aa5f8d8.css.map",
+    "main.f262d3ad.js.map": "/HM-4TPA/static/js/main.f262d3ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aa5f8d8.css",
+    "static/js/main.f262d3ad.js"
+  ]
+}
